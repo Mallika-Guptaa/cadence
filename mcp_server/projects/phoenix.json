@@ -1,0 +1,18 @@
+{
+  "name": "Phoenix",
+  "description": "Next-gen checkout platform migration",
+  "target_date": "2026-07-31",
+  "owner": "priya@cadence.demo",
+  "health": "at_risk",
+  "tickets": [
+    {"id": "PHX-101", "title": "Payment gateway cutover rehearsal", "status": "in_progress", "owner": "marco", "updated": "2026-07-10"},
+    {"id": "PHX-102", "title": "Schema migration for order history", "status": "done", "owner": "dana", "updated": "2026-07-08"},
+    {"id": "PHX-103", "title": "Rollout region decision", "status": "blocked", "owner": "priya", "updated": "2026-07-09", "blocker": "waiting on legal review for EU regions"},
+    {"id": "PHX-104", "title": "Pricing page copy update", "status": "todo", "owner": "alex", "updated": "2026-07-07"},
+    {"id": "PHX-105", "title": "Load test at 2x peak traffic", "status": "in_progress", "owner": "marco", "updated": "2026-07-11"}
+  ],
+  "risks": [
+    "EU rollout blocked on legal review (PHX-103)",
+    "Load test results due before cutover rehearsal can be signed off"
+  ]
+}

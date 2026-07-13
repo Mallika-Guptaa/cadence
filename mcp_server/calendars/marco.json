@@ -1,0 +1,95 @@
+{
+  "email": "marco@cadence.demo",
+  "name": "Marco",
+  "slack_name": "marco",
+  "events": [
+    {
+      "id": "SEED-1",
+      "title": "Sprint planning",
+      "start": "2026-07-14T09:00:00-07:00",
+      "end": "2026-07-14T10:30:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "priya@cadence.demo",
+        "marco@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-11",
+      "title": "Vendor call",
+      "start": "2026-07-14T13:00:00-07:00",
+      "end": "2026-07-14T14:00:00-07:00",
+      "attendees": [
+        "marco@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-2",
+      "title": "Team standup",
+      "start": "2026-07-15T09:00:00-07:00",
+      "end": "2026-07-15T09:30:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "marco@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-12",
+      "title": "Roadmap workshop",
+      "start": "2026-07-15T14:00:00-07:00",
+      "end": "2026-07-15T15:30:00-07:00",
+      "attendees": [
+        "priya@cadence.demo",
+        "marco@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-MARCO-OOO",
+      "title": "OOO \u2014 personal day",
+      "start": "2026-07-16T00:00:00-07:00",
+      "end": "2026-07-16T23:59:00-07:00",
+      "attendees": [
+        "marco@cadence.demo"
+      ],
+      "kind": "leave"
+    },
+    {
+      "id": "SEED-5",
+      "title": "Payments migration standup",
+      "start": "2026-07-17T09:30:00-07:00",
+      "end": "2026-07-17T09:45:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "marco@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-13",
+      "title": "Code review block",
+      "start": "2026-07-17T14:00:00-07:00",
+      "end": "2026-07-17T15:00:00-07:00",
+      "attendees": [
+        "marco@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "EVT-1",
+      "title": "Team sync",
+      "start": "2026-07-15T10:00:00-07:00",
+      "end": "2026-07-15T10:45:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "marco@cadence.demo",
+        "priya@cadence.demo"
+      ],
+      "agenda": "",
+      "kind": "meeting"
+    }
+  ]
+}

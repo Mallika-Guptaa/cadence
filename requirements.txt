@@ -1,0 +1,7 @@
+python-dotenv>=1.0.1
+slack-bolt>=1.22.0
+slack-sdk>=3.33.0
+mcp>=1.0.0
+anthropic>=0.40.0
+openai>=2.45.0
+pydantic>=2.0.0

@@ -1,0 +1,48 @@
+{
+  "email": "dana@cadence.demo",
+  "name": "Dana",
+  "slack_name": "dana",
+  "events": [
+    {
+      "id": "SEED-14",
+      "title": "Data pipeline sync",
+      "start": "2026-07-14T10:00:00-07:00",
+      "end": "2026-07-14T11:00:00-07:00",
+      "attendees": [
+        "dana@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-15",
+      "title": "Metrics review",
+      "start": "2026-07-15T15:00:00-07:00",
+      "end": "2026-07-15T16:00:00-07:00",
+      "attendees": [
+        "dana@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-16",
+      "title": "Support rotation",
+      "start": "2026-07-20T13:00:00-07:00",
+      "end": "2026-07-20T14:00:00-07:00",
+      "attendees": [
+        "dana@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-6",
+      "title": "Customer onboarding call",
+      "start": "2026-07-17T14:00:00-07:00",
+      "end": "2026-07-17T14:30:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "dana@cadence.demo"
+      ],
+      "kind": "meeting"
+    }
+  ]
+}

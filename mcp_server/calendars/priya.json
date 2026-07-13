@@ -1,0 +1,85 @@
+{
+  "email": "priya@cadence.demo",
+  "name": "Priya",
+  "slack_name": "priya",
+  "events": [
+    {
+      "id": "SEED-1",
+      "title": "Sprint planning",
+      "start": "2026-07-14T09:00:00-07:00",
+      "end": "2026-07-14T10:30:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "priya@cadence.demo",
+        "marco@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-8",
+      "title": "Interview loop",
+      "start": "2026-07-14T11:00:00-07:00",
+      "end": "2026-07-14T12:00:00-07:00",
+      "attendees": [
+        "priya@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-3",
+      "title": "Design review",
+      "start": "2026-07-15T11:00:00-07:00",
+      "end": "2026-07-15T12:00:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "priya@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-9",
+      "title": "Roadmap workshop",
+      "start": "2026-07-15T14:00:00-07:00",
+      "end": "2026-07-15T15:30:00-07:00",
+      "attendees": [
+        "priya@cadence.demo",
+        "marco@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-4",
+      "title": "Q3 launch planning review",
+      "start": "2026-07-16T10:00:00-07:00",
+      "end": "2026-07-16T10:45:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "priya@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "SEED-10",
+      "title": "Analytics deep dive",
+      "start": "2026-07-17T14:00:00-07:00",
+      "end": "2026-07-17T15:00:00-07:00",
+      "attendees": [
+        "priya@cadence.demo"
+      ],
+      "kind": "meeting"
+    },
+    {
+      "id": "EVT-1",
+      "title": "Team sync",
+      "start": "2026-07-15T10:00:00-07:00",
+      "end": "2026-07-15T10:45:00-07:00",
+      "attendees": [
+        "alex@cadence.demo",
+        "marco@cadence.demo",
+        "priya@cadence.demo"
+      ],
+      "agenda": "",
+      "kind": "meeting"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Atlas",
+  "description": "Internal analytics dashboard rebuild",
+  "target_date": "2026-08-15",
+  "owner": "dana@cadence.demo",
+  "health": "on_track",
+  "tickets": [
+    {"id": "ATL-21", "title": "Migrate dashboards to new query engine", "status": "in_progress", "owner": "dana", "updated": "2026-07-10"},
+    {"id": "ATL-22", "title": "Deprecate legacy metrics API", "status": "todo", "owner": "marco", "updated": "2026-07-06"},
+    {"id": "ATL-23", "title": "Usage tracking opt-in banner", "status": "done", "owner": "alex", "updated": "2026-07-09"}
+  ],
+  "risks": []
+}

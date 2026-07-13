@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+mcp_server/events/*.json
+mcp_server/events/*.ics
+cadence.db
+cadence.db-wal
+cadence.db-shm
+mcp_server/tasks/TASK-*.json
+mcp_server/changelog/CHANGELOG.md
