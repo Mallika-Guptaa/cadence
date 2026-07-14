@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/cadence-logo.png" alt="Cadence logo" width="720">
+</p>
+
 # 🎼 Cadence
 
 **Your team's rhythm, kept — time, promises, and updates managed inside Slack.**
