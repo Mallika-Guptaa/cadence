@@ -2,7 +2,7 @@
   <img src="docs/assets/cadence-logo.png" alt="Cadence logo" width="720">
 </p>
 
-# 🎼 Cadence
+# 🎼 Cadence - Your Slack Agent
 
 **Your team's rhythm, kept — time, promises, and updates managed inside Slack.**
 
